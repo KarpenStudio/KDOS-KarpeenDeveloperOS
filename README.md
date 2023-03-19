@@ -1,2 +1,7 @@
-# KDOS-KarpeenDeveloperOS
+# KDOS-KarpeenDeveloper OpertingSystem
 The Russia system
+No English Version
+
+КДОС первая дос система на свём ядре сделаная в россии.
+В комплекте с сестемой идёт вертуалка, всё просто откройте файл
+и сестема запуститься. Образ для установки пока в разработке!
